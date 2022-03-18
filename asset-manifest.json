@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/FormSurveyReactjsFe/static/css/main.d94c4341.css",
+    "main.js": "/FormSurveyReactjsFe/static/js/main.d32372a2.js",
+    "static/js/994.22db9dba.chunk.js": "/FormSurveyReactjsFe/static/js/994.22db9dba.chunk.js",
+    "static/js/432.20d6e6ba.chunk.js": "/FormSurveyReactjsFe/static/js/432.20d6e6ba.chunk.js",
+    "static/js/787.de49bbbf.chunk.js": "/FormSurveyReactjsFe/static/js/787.de49bbbf.chunk.js",
+    "static/js/338.149c4d14.chunk.js": "/FormSurveyReactjsFe/static/js/338.149c4d14.chunk.js",
+    "static/js/819.2c8e3d4d.chunk.js": "/FormSurveyReactjsFe/static/js/819.2c8e3d4d.chunk.js",
+    "static/js/705.17bbe221.chunk.js": "/FormSurveyReactjsFe/static/js/705.17bbe221.chunk.js",
+    "static/js/211.4db0b435.chunk.js": "/FormSurveyReactjsFe/static/js/211.4db0b435.chunk.js",
+    "static/js/105.bc8cb619.chunk.js": "/FormSurveyReactjsFe/static/js/105.bc8cb619.chunk.js",
+    "static/js/937.03565349.chunk.js": "/FormSurveyReactjsFe/static/js/937.03565349.chunk.js",
+    "static/js/295.9e2714d5.chunk.js": "/FormSurveyReactjsFe/static/js/295.9e2714d5.chunk.js",
+    "static/js/918.b4f1c50a.chunk.js": "/FormSurveyReactjsFe/static/js/918.b4f1c50a.chunk.js",
+    "static/js/491.c1051afa.chunk.js": "/FormSurveyReactjsFe/static/js/491.c1051afa.chunk.js",
+    "static/media/people.svg": "/FormSurveyReactjsFe/static/media/people.e9ce0a81cef56b8b002a.svg",
+    "static/media/info.svg": "/FormSurveyReactjsFe/static/media/info.0fe8b217a8197908744a74829d60134c.svg",
+    "static/media/joy.svg": "/FormSurveyReactjsFe/static/media/joy.4db9ef9bbc634aa8ac1a.svg",
+    "index.html": "/FormSurveyReactjsFe/index.html",
+    "main.d94c4341.css.map": "/FormSurveyReactjsFe/static/css/main.d94c4341.css.map",
+    "main.d32372a2.js.map": "/FormSurveyReactjsFe/static/js/main.d32372a2.js.map",
+    "994.22db9dba.chunk.js.map": "/FormSurveyReactjsFe/static/js/994.22db9dba.chunk.js.map",
+    "432.20d6e6ba.chunk.js.map": "/FormSurveyReactjsFe/static/js/432.20d6e6ba.chunk.js.map",
+    "787.de49bbbf.chunk.js.map": "/FormSurveyReactjsFe/static/js/787.de49bbbf.chunk.js.map",
+    "338.149c4d14.chunk.js.map": "/FormSurveyReactjsFe/static/js/338.149c4d14.chunk.js.map",
+    "819.2c8e3d4d.chunk.js.map": "/FormSurveyReactjsFe/static/js/819.2c8e3d4d.chunk.js.map",
+    "705.17bbe221.chunk.js.map": "/FormSurveyReactjsFe/static/js/705.17bbe221.chunk.js.map",
+    "211.4db0b435.chunk.js.map": "/FormSurveyReactjsFe/static/js/211.4db0b435.chunk.js.map",
+    "105.bc8cb619.chunk.js.map": "/FormSurveyReactjsFe/static/js/105.bc8cb619.chunk.js.map",
+    "937.03565349.chunk.js.map": "/FormSurveyReactjsFe/static/js/937.03565349.chunk.js.map",
+    "295.9e2714d5.chunk.js.map": "/FormSurveyReactjsFe/static/js/295.9e2714d5.chunk.js.map",
+    "918.b4f1c50a.chunk.js.map": "/FormSurveyReactjsFe/static/js/918.b4f1c50a.chunk.js.map",
+    "491.c1051afa.chunk.js.map": "/FormSurveyReactjsFe/static/js/491.c1051afa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d94c4341.css",
+    "static/js/main.d32372a2.js"
+  ]
+}
