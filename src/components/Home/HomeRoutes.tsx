@@ -8,7 +8,7 @@ const Account = lazy(() => import("../Home/modules/Account"));
 
 export const HomeRoutes = () => {
   const match = useRouteMatch();
-  console.log(match);
+  
   return (
     <Switch>
       <ProtectedRoute
