@@ -66,7 +66,6 @@ export default function Create() {
     }
     if(match.params.id) {
       facade.updateForm({id:match.params.id,body:reqBody}).then((result:any) =>{
-        console.log(result);
         let old = qst;
         old.forEach(item => item.value = "");
         setQst(old);

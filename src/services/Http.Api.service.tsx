@@ -13,23 +13,23 @@ export const HttpApiServiceProvider = (props: any) => {
 
     axios.interceptors.request.use(function (config) {
       // Do something before request is sent
-      console.log(config,"intecterc req")
+      // console.log(config,"intecterc req")
       return config;
     }, function (error) {
       // Do something with request error
-      console.log(error,"intecterc req err")
-      return Promise.reject(error);
+      // console.log(error,"intecterc req err")
+      // return Promise.reject(error);
     });
 
     axios.interceptors.response.use(function (response) {
       // Any status code that lie within the range of 2xx cause this function to trigger
       // Do something with response data
-      console.log(response,"intercepto resp ")
+      // console.log(response,"intercepto resp ")
       return response;
     }, function (error) {
       // Any status codes that falls outside the range of 2xx cause this function to trigger
       // Do something with response error
-      console.log(error,"intercepto resp err")
+      // console.log(error,"intercepto resp err")
       return Promise.reject(error);
     });
   },[])

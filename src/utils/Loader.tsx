@@ -2,7 +2,6 @@ import Backdrop from '@mui/material/Backdrop';
 import CircularProgress from '@mui/material/CircularProgress';
 
 export default function SimpleBackdrop() {
-console.log("back");
   return (
       <div className="backdrop">
       <Backdrop
