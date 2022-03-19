@@ -1,5 +1,7 @@
 A mern stack app where user can feed in their personal info, and on the second page user can update or delete it
 link to the live app- https://niteshkandari.github.io/FormSurveyReactjsFe
+
+app credentials
 username - admin@admin.com
 password -admin
 snapshots of the app - 
