@@ -1,7 +1,8 @@
 import React from "react";
 import "./App.css";
 import { AppRoutes } from "./AppRoutes";
-import { BrowserRouter as Router } from "react-router-dom";
+// import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import { HttpApiServiceProvider } from "./services/Http.Api.service";
 
 const App: React.FC = () => {

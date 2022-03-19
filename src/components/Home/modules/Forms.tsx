@@ -119,6 +119,7 @@ export default function Forms() {
                         borderRadius: "20px",
                         padding: "8px",
                         display: "flex",
+                        justifyContent: "center",
                         color: "teal",
                         gap: "8px",
                         cursor: "pointer",

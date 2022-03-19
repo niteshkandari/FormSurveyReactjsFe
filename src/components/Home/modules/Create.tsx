@@ -48,7 +48,7 @@ export default function Create() {
   };
   const handleFormSubmit = async (e:any) => {
     e.preventDefault();
-    let timer: NodeJS.Timeout;
+    // let timer: NodeJS.Timeout;
     let reqBody = {
       name: qst[0].value,
       email: qst[1].value,
@@ -79,16 +79,17 @@ export default function Create() {
       return;
     }
       facade.createForm(reqBody).then((response: { data: any; }) => {
-        clearTimeout(timer);
         setSnack({show:true, message:"Form submitted successfully",type:"success"});  
+        setTimeout(() => {
+          setSnack({show:false, message:"",type:"success"})
+        },2000)
       })
       .catch((error: any) => {
-        clearTimeout(timer);
         setSnack({show:true, message:"something went wrong",type:"error"});
-    }); 
-    timer = setTimeout(() => {
-      setSnack({show:false, message:"",type:"success"})
-    },2000)
+        setTimeout(() => {
+          setSnack({show:false, message:"",type:"success"})
+        },2000)
+      }); 
     setQst([
       { question: "name", value: "" },
       { question: "email", value: "" },
